@@ -58,7 +58,7 @@
         padding: 0;
         background-color: transparent;
         color: rgb(159, 248, 25);
-        width: 150px;
+        width: 500px;
         
     }
 
